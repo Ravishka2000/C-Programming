@@ -69,5 +69,7 @@ int main(void)
   printf("\nTotal Withdrawal Amount : %.2f",wtot);
   printf("\nName of the customer with the maximum Deposit Amount : %s",maxnm);
   printf("\nName of the customer with the minimum Withdraw Amount : %s",mixnm);
+
+  
   return 0;
 }
